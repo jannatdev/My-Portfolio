@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../portfolio 2"
+		},
+		{
+			"path": "../Portfolio1"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "onePageFour"
+	}
+}
